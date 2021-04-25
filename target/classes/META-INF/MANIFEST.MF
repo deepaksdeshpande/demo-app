@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: deepak
+Build-Jdk: 15.0.1
+Implementation-Title: Spring Boot Jersey Blank Project (from https://git
+ hub.com/making/spring-boot-jersey-blank)
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.demo.app
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.demo.app.App
+Created-By: Maven Integration for Eclipse
+
