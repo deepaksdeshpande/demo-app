@@ -30,9 +30,9 @@ public class HelloEndpoint {
         private final long answer;
         
         Result(int left, int right, long answer) {
-			this.left=0;
-        	this.right=0;
-        	this.answer=0L;
+			this.left=100;
+        	this.right=200;
+        	this.answer=300;
         }
     }
 
