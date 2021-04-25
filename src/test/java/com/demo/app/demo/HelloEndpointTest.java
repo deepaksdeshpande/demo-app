@@ -34,7 +34,7 @@ public class HelloEndpointTest {
                 .body(is("Hello World!"));
     }
 
-    @Test
+   /* @Test
     public void testCalc() throws Exception {
         given().param("left", 100)
                 .param("right", 200)
@@ -43,5 +43,5 @@ public class HelloEndpointTest {
                 .body("left", is(100))
                 .body("right", is(200))
                 .body("answer", is(300));
-    }
+    }*/
 }
