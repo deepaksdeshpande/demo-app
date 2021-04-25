@@ -34,6 +34,18 @@ public class HelloEndpoint {
         	this.right=200;
         	this.answer=300;
         }
+
+		public int getLeft() {
+			return left;
+		}
+
+		public int getRight() {
+			return right;
+		}
+
+		public long getAnswer() {
+			return answer;
+		}
     }
 
     // SQL sample
